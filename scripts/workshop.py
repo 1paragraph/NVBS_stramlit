@@ -30,7 +30,8 @@ empty_messages = {
     'interior': 'салон',
     'trunk': 'багажник',
     'labeled': 'наклейка присутствует',
-    'damaged': 'повреждена, нарушена целостность наклейки/отсутствует наклейка'}
+    'damaged': 'повреждена, нарушена целостность наклейки/отсутствует наклейка',
+    'rubbish': 'внутри находится мусор'}
 
 st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
@@ -75,9 +76,7 @@ def random_show():
     st.image(opencv_image, channels="BGR")
 
     result = m.predict(opencv_image)
-
-    st.text(result)
-
+    
     if result['classes'] is not None:
         classes = pd.Series(list(result['classes'])).map(empty_messages)
         st.text('Атрибуты:')
