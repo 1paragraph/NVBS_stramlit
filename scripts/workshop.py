@@ -83,10 +83,10 @@ def random_show():
         st.text('Атрибуты:')
         for x in classes.tolist(): 
             st.text(x)
-        try:
+        if result['mileage'] is not None:
             st.text('Пробег:')
             st.write(result['mileage'])
-        except:
+        else:
             None
     else:
         None
