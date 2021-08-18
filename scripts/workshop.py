@@ -47,7 +47,7 @@ if uploaded_file is not None:
     if result['classes'] is not None:
         classes = pd.Series(list(result['classes'])).map(empty_messages)
         st.text('Атрибуты:')
-        st.write(classes.tolist())
+        st.text(classes.tolist())
     elif result['mileage'] is not None:
         st.text('Пробег:')
         st.write(result['mileage'])
