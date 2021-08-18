@@ -43,7 +43,7 @@ uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 def on_download():
     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
     opencv_image = cv2.imdecode(file_bytes, 1)
-    
+
     w, h = round(opencv_image.shape[0]*0.4), round(opencv_image.shape[1]*0.4)
 
     to_show = cv2.resize(opencv_image, (w, h))
@@ -51,8 +51,6 @@ def on_download():
     st.image(opencv_image, channels="BGR")
 
     result = m.predict(opencv_image)
-
-    st.text(result)
 
     if result['classes'] is not None:
         classes = pd.Series(list(result['classes'])).map(empty_messages)
@@ -67,11 +65,11 @@ def on_download():
             None
     else:
         None
+    caching.clear_cache()
 
 if uploaded_file is not None:
     # Convert the file to an opencv image.
     on_download()
-
 
 def random_show():
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
@@ -100,6 +98,7 @@ def random_show():
             None
     else:
         None
+    caching.clear_cache()
 
 
 if st.button('Мне повезёт!'):
