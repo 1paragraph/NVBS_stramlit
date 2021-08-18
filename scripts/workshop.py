@@ -1,6 +1,7 @@
 import nvbs_models
 import cv2
 from cars_parser import CarsParser
+import os
 
 m = nvbs_models.NvbsCarModel(
     classifier=nvbs_models.CarsClassifier('./model_weights/b4.pt'),
@@ -9,9 +10,11 @@ m = nvbs_models.NvbsCarModel(
                                         './model_weights/bbox_model_resnet18d.pt')
     )
 
-cp = CarsParser(m)
-path = './test_data'
-cp.parse(path)
-result = cp.get_report()
-result.to_csv('result.csv', index=False)
-print(result)
+print(os.getcwd())
+
+# cp = CarsParser(m)
+# path = './test_data'
+# cp.parse(path)
+# result = cp.get_report()
+# result.to_csv('result.csv', index=False)
+# print(result)
