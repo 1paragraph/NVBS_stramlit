@@ -44,7 +44,7 @@ def on_download():
     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
     opencv_image = cv2.imdecode(file_bytes, 1)
 
-    w, h = round(opencv_image.shape[0]*0.4), round(opencv_image.shape[1]*0.4)
+    w, h = round(opencv_image.shape[0]*0.2), round(opencv_image.shape[1]*0.2)
 
     to_show = cv2.resize(opencv_image, (w, h))
 
@@ -74,7 +74,7 @@ if uploaded_file is not None:
 def random_show():
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
     opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
-    w, h = round(opencv_image.shape[0]*0.4), round(opencv_image.shape[1]*0.4)
+    w, h = round(opencv_image.shape[0]*0.2), round(opencv_image.shape[1]*0.2)
 
     to_show = cv2.resize(opencv_image, (w, h))
 
