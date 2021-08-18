@@ -1,0 +1,621 @@
+image,id,choice,annotator,annotation_id
+/data/upload/1987.jpg,140,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,497
+/data/upload/2133.jpg,287,panel,stasechka28@yandex.ru,379
+/data/upload/2158.jpg,301,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,365
+/data/upload/2185.jpg,338,,stasechka28@yandex.ru,329
+/data/upload/2184.jpg,337,,stasechka28@yandex.ru,330
+/data/upload/2183.jpg,336,,stasechka28@yandex.ru,331
+/data/upload/2211.jpg,366,right,stasechka28@yandex.ru,301
+/data/upload/2401.jpg,555,front,stasechka28@yandex.ru,121
+/data/upload/2481.jpg,635,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,44
+/data/upload/2494.jpg,646,panel,stasechka28@yandex.ru,33
+/data/upload/2525.jpg,678,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,1
+/data/upload/2524.jpg,677,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,2
+/data/upload/2523.jpg,676,panel,stasechka28@yandex.ru,3
+/data/upload/2522.jpg,675,panel,stasechka28@yandex.ru,4
+/data/upload/2521.jpg,674,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,5
+/data/upload/2528.jpg,673,back,stasechka28@yandex.ru,6
+/data/upload/2527.jpg,672,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,7
+/data/upload/2526.jpg,671,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,8
+/data/upload/2518.jpg,670,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,9
+/data/upload/2517.jpg,669,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,10
+/data/upload/2516.jpg,668,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,11
+/data/upload/2515.jpg,667,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,12
+/data/upload/2514.jpg,666,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,13
+/data/upload/2513.jpg,665,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,14
+/data/upload/2512.jpg,664,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,15
+/data/upload/2511.jpg,663,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,16
+/data/upload/2520.jpg,662,panel,stasechka28@yandex.ru,17
+/data/upload/2519.jpg,661,panel,stasechka28@yandex.ru,18
+/data/upload/2507.jpg,660,"{""choices"": [""front"", ""dirty""]}",stasechka28@yandex.ru,19
+/data/upload/2506.jpg,659,back,stasechka28@yandex.ru,20
+/data/upload/2505.jpg,658,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,21
+/data/upload/2504.jpg,657,"{""choices"": [""b_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,22
+/data/upload/2503.jpg,656,panel,stasechka28@yandex.ru,23
+/data/upload/2502.jpg,655,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,24
+/data/upload/2501.jpg,654,"{""choices"": [""left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,25
+/data/upload/2510.jpg,653,front,stasechka28@yandex.ru,26
+/data/upload/2509.jpg,652,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,27
+/data/upload/2508.jpg,651,panel,stasechka28@yandex.ru,28
+/data/upload/2498.jpg,650,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,29
+/data/upload/2497.jpg,649,"{""choices"": [""dirty"", ""labeled""]}",stasechka28@yandex.ru,30
+/data/upload/2496.jpg,648,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,31
+/data/upload/2495.jpg,647,panel,stasechka28@yandex.ru,32
+/data/upload/2493.jpg,645,trunk,stasechka28@yandex.ru,34
+/data/upload/2492.jpg,644,"{""choices"": [""b_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,35
+/data/upload/2491.jpg,643,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,36
+/data/upload/2500.jpg,642,panel,stasechka28@yandex.ru,37
+/data/upload/2499.jpg,641,"{""choices"": [""right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,38
+/data/upload/2486.jpg,640,front,stasechka28@yandex.ru,39
+/data/upload/2485.jpg,639,"{""choices"": [""back"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,40
+/data/upload/2484.jpg,638,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,41
+/data/upload/2483.jpg,637,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,42
+/data/upload/2482.jpg,636,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,43
+/data/upload/2490.jpg,634,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,45
+/data/upload/2489.jpg,633,panel,stasechka28@yandex.ru,46
+/data/upload/2488.jpg,632,"{""choices"": [""left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,47
+/data/upload/2487.jpg,631,"{""choices"": [""right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,48
+/data/upload/2476.jpg,630,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,49
+/data/upload/2475.jpg,629,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,50
+/data/upload/2474.jpg,628,front,stasechka28@yandex.ru,51
+/data/upload/2473.jpg,627,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,52
+/data/upload/2472.jpg,626,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,53
+/data/upload/2471.jpg,625,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,54
+/data/upload/2480.jpg,624,"{""choices"": [""b_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,55
+/data/upload/2479.jpg,623,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,56
+/data/upload/2478.jpg,622,panel,stasechka28@yandex.ru,57
+/data/upload/2477.jpg,621,panel,stasechka28@yandex.ru,58
+/data/upload/2466.jpg,620,panel,stasechka28@yandex.ru,59
+/data/upload/2465.jpg,619,panel,stasechka28@yandex.ru,60
+/data/upload/2464.jpg,618,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,61
+/data/upload/2463.jpg,617,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,62
+/data/upload/2462.jpg,616,front,stasechka28@yandex.ru,63
+/data/upload/2461.jpg,615,"{""choices"": [""right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,64
+/data/upload/2470.jpg,614,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,65
+/data/upload/2469.jpg,613,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,66
+/data/upload/2468.jpg,612,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,67
+/data/upload/2467.jpg,611,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,68
+/data/upload/2456.jpg,610,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,69
+/data/upload/2455.jpg,609,trunk,stasechka28@yandex.ru,70
+/data/upload/2454.jpg,608,panel,stasechka28@yandex.ru,71
+/data/upload/2453.jpg,607,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,72
+/data/upload/2452.jpg,606,panel,stasechka28@yandex.ru,73
+/data/upload/2451.jpg,605,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,74
+/data/upload/2460.jpg,604,"{""choices"": [""back"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,75
+/data/upload/2459.jpg,603,"{""choices"": [""left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,76
+/data/upload/2458.jpg,602,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,77
+/data/upload/2457.jpg,601,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,78
+/data/upload/2447.jpg,600,"{""choices"": [""front"", ""dirty""]}",stasechka28@yandex.ru,79
+/data/upload/2446.jpg,599,"{""choices"": [""right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,80
+/data/upload/2445.jpg,598,"{""choices"": [""back"", ""dirty""]}",stasechka28@yandex.ru,81
+/data/upload/2444.jpg,597,"{""choices"": [""left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,82
+/data/upload/2443.jpg,596,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,83
+/data/upload/2442.jpg,595,panel,stasechka28@yandex.ru,84
+/data/upload/2441.jpg,594,panel,stasechka28@yandex.ru,85
+/data/upload/2450.jpg,593,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,86
+/data/upload/2449.jpg,592,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,87
+/data/upload/2448.jpg,591,"{""choices"": [""b_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,88
+/data/upload/2438.jpg,590,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,89
+/data/upload/2437.jpg,589,"{""choices"": [""front"", ""dirty""]}",stasechka28@yandex.ru,90
+/data/upload/2436.jpg,588,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,91
+/data/upload/2435.jpg,587,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,92
+/data/upload/2434.jpg,586,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,93
+/data/upload/2433.jpg,585,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,94
+/data/upload/2431.jpg,583,panel,stasechka28@yandex.ru,95
+/data/upload/2440.jpg,582,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,96
+/data/upload/2439.jpg,581,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,97
+/data/upload/2426.jpg,580,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,98
+/data/upload/2425.jpg,579,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,99
+/data/upload/2424.jpg,578,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,100
+/data/upload/2423.jpg,577,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,101
+/data/upload/2422.jpg,576,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,102
+/data/upload/2421.jpg,575,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,103
+/data/upload/2430.jpg,574,back,stasechka28@yandex.ru,104
+/data/upload/2429.jpg,573,panel,stasechka28@yandex.ru,105
+/data/upload/2428.jpg,572,interior,stasechka28@yandex.ru,106
+/data/upload/2417.jpg,570,panel,stasechka28@yandex.ru,107
+/data/upload/2416.jpg,569,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,108
+/data/upload/2415.jpg,568,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,109
+/data/upload/2414.jpg,567,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,110
+/data/upload/2413.jpg,566,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,111
+/data/upload/2412.jpg,565,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,112
+/data/upload/2411.jpg,564,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,113
+/data/upload/2420.jpg,563,front,stasechka28@yandex.ru,114
+/data/upload/2419.jpg,562,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,115
+/data/upload/2418.jpg,561,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,116
+/data/upload/2406.jpg,560,panel,stasechka28@yandex.ru,117
+/data/upload/2405.jpg,559,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,118
+/data/upload/2403.jpg,557,panel,stasechka28@yandex.ru,119
+/data/upload/2402.jpg,556,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,120
+/data/upload/2410.jpg,554,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,122
+/data/upload/2409.jpg,553,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,123
+/data/upload/2408.jpg,552,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,124
+/data/upload/2407.jpg,551,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,125
+/data/upload/2398.jpg,550,interior,stasechka28@yandex.ru,126
+/data/upload/2397.jpg,549,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,127
+/data/upload/2395.jpg,547,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,128
+/data/upload/2394.jpg,546,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,129
+/data/upload/2393.jpg,545,panel,stasechka28@yandex.ru,130
+/data/upload/2392.jpg,544,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,131
+/data/upload/2391.jpg,543,panel,stasechka28@yandex.ru,132
+/data/upload/2400.jpg,542,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,133
+/data/upload/2399.jpg,541,back,stasechka28@yandex.ru,134
+/data/upload/2384.jpg,540,left,stasechka28@yandex.ru,135
+/data/upload/2383.jpg,539,f_right,stasechka28@yandex.ru,136
+/data/upload/2382.jpg,538,f_left,stasechka28@yandex.ru,137
+/data/upload/2381.jpg,537,front,stasechka28@yandex.ru,138
+/data/upload/2390.jpg,536,b_right,stasechka28@yandex.ru,139
+/data/upload/2389.jpg,535,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,140
+/data/upload/2388.jpg,534,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,141
+/data/upload/2387.jpg,533,b_left,stasechka28@yandex.ru,142
+/data/upload/2386.jpg,532,back,stasechka28@yandex.ru,143
+/data/upload/2385.jpg,531,right,stasechka28@yandex.ru,144
+/data/upload/2377.jpg,530,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,145
+/data/upload/2376.jpg,529,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,146
+/data/upload/2375.jpg,528,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,147
+/data/upload/2374.jpg,527,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,148
+/data/upload/2373.jpg,526,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,149
+/data/upload/2372.jpg,525,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,150
+/data/upload/2371.jpg,524,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,151
+/data/upload/2378.jpg,521,front,stasechka28@yandex.ru,152
+/data/upload/2366.jpg,520,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,153
+/data/upload/2365.jpg,519,trunk,stasechka28@yandex.ru,154
+/data/upload/2364.jpg,518,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,155
+/data/upload/2363.jpg,517,panel,stasechka28@yandex.ru,156
+/data/upload/2362.jpg,516,b_left,stasechka28@yandex.ru,157
+/data/upload/2361.jpg,515,damaged,stasechka28@yandex.ru,158
+/data/upload/2370.jpg,514,back,stasechka28@yandex.ru,159
+/data/upload/2369.jpg,513,interior,stasechka28@yandex.ru,160
+/data/upload/2368.jpg,512,panel,stasechka28@yandex.ru,161
+/data/upload/2367.jpg,511,interior,stasechka28@yandex.ru,162
+/data/upload/2355.jpg,510,damaged,stasechka28@yandex.ru,163
+/data/upload/2354.jpg,509,interior,stasechka28@yandex.ru,164
+/data/upload/2353.jpg,508,panel,stasechka28@yandex.ru,165
+/data/upload/2352.jpg,507,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,166
+/data/upload/2351.jpg,506,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,167
+/data/upload/2360.jpg,505,f_left,stasechka28@yandex.ru,169
+/data/upload/2359.jpg,504,panel,stasechka28@yandex.ru,168
+/data/upload/2358.jpg,503,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,170
+/data/upload/2357.jpg,502,damaged,stasechka28@yandex.ru,171
+/data/upload/2356.jpg,501,interior,stasechka28@yandex.ru,172
+/data/upload/2345.jpg,500,left,stasechka28@yandex.ru,173
+/data/upload/2344.jpg,499,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,174
+/data/upload/2343.jpg,498,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,175
+/data/upload/2342.jpg,497,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,176
+/data/upload/2341.jpg,496,panel,stasechka28@yandex.ru,177
+/data/upload/2350.jpg,495,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,178
+/data/upload/2349.jpg,494,damaged,stasechka28@yandex.ru,179
+/data/upload/2348.jpg,493,damaged,stasechka28@yandex.ru,180
+/data/upload/2347.jpg,492,damaged,stasechka28@yandex.ru,181
+/data/upload/2346.jpg,491,panel,stasechka28@yandex.ru,182
+/data/upload/2336.jpg,490,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,183
+/data/upload/2335.jpg,489,"{""choices"": [""f_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,184
+/data/upload/2334.jpg,488,"{""choices"": [""front"", ""dirty""]}",stasechka28@yandex.ru,185
+/data/upload/2331.jpg,485,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,186
+/data/upload/2340.jpg,484,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,187
+/data/upload/2339.jpg,483,"{""choices"": [""left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,188
+/data/upload/2338.jpg,482,"{""choices"": [""back"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,189
+/data/upload/2337.jpg,481,"{""choices"": [""right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,190
+/data/upload/2326.jpg,480,"{""choices"": [""back"", ""panel"", ""dirty""]}",stasechka28@yandex.ru,191
+/data/upload/2325.jpg,479,"{""choices"": [""b_right"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,192
+/data/upload/2322.jpg,476,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,193
+/data/upload/2321.jpg,475,panel,stasechka28@yandex.ru,194
+/data/upload/2330.jpg,474,"{""choices"": [""f_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,195
+/data/upload/2329.jpg,473,panel,stasechka28@yandex.ru,196
+/data/upload/2328.jpg,472,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,197
+/data/upload/2327.jpg,471,"{""choices"": [""b_left"", ""dirty"", ""labeled""]}",stasechka28@yandex.ru,198
+/data/upload/2315.jpg,470,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,199
+/data/upload/2314.jpg,469,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,200
+/data/upload/2313.jpg,468,front,stasechka28@yandex.ru,201
+/data/upload/2312.jpg,467,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,202
+/data/upload/2311.jpg,466,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,203
+/data/upload/2320.jpg,465,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,204
+/data/upload/2319.jpg,464,interior,stasechka28@yandex.ru,205
+/data/upload/2318.jpg,463,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,206
+/data/upload/2317.jpg,462,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,207
+/data/upload/2316.jpg,461,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,208
+/data/upload/2306.jpg,460,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,209
+/data/upload/2305.jpg,459,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,210
+/data/upload/2304.jpg,458,trunk,stasechka28@yandex.ru,211
+/data/upload/2303.jpg,457,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,212
+/data/upload/2302.jpg,456,panel,stasechka28@yandex.ru,213
+/data/upload/2301.jpg,455,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,214
+/data/upload/2310.jpg,454,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,215
+/data/upload/2309.jpg,453,front,stasechka28@yandex.ru,216
+/data/upload/2308.jpg,452,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,217
+/data/upload/2307.jpg,451,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,218
+/data/upload/2296.jpg,450,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,219
+/data/upload/2295.jpg,449,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,220
+/data/upload/2294.jpg,448,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,221
+/data/upload/2293.jpg,447,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,222
+/data/upload/2292.jpg,446,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,223
+/data/upload/2291.jpg,445,interior,stasechka28@yandex.ru,224
+/data/upload/2300.jpg,444,front,stasechka28@yandex.ru,225
+/data/upload/2299.jpg,443,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,226
+/data/upload/2298.jpg,442,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,227
+/data/upload/2297.jpg,441,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,228
+/data/upload/2286.jpg,440,front,stasechka28@yandex.ru,229
+/data/upload/2285.jpg,439,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,230
+/data/upload/2284.jpg,438,interior,stasechka28@yandex.ru,231
+/data/upload/2283.jpg,437,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,232
+/data/upload/2282.jpg,436,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,233
+/data/upload/2290.jpg,434,panel,stasechka28@yandex.ru,234
+/data/upload/2289.jpg,433,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,235
+/data/upload/2288.jpg,432,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,236
+/data/upload/2287.jpg,431,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,237
+/data/upload/2276.jpg,430,interior,stasechka28@yandex.ru,238
+/data/upload/2275.jpg,429,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,239
+/data/upload/2274.jpg,428,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,240
+/data/upload/2273.jpg,427,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,241
+/data/upload/2272.jpg,426,front,stasechka28@yandex.ru,242
+/data/upload/2271.jpg,425,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,243
+/data/upload/2280.jpg,424,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,244
+/data/upload/2279.jpg,423,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,245
+/data/upload/2278.jpg,422,panel,stasechka28@yandex.ru,246
+/data/upload/2266.jpg,420,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,247
+/data/upload/2265.jpg,419,front,stasechka28@yandex.ru,248
+/data/upload/2264.jpg,418,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,249
+/data/upload/2263.jpg,417,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,250
+/data/upload/2262.jpg,416,"{""choices"": [""back"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,251
+/data/upload/2261.jpg,415,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,252
+/data/upload/2270.jpg,414,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,253
+/data/upload/2269.jpg,413,panel,stasechka28@yandex.ru,254
+/data/upload/2268.jpg,412,interior,stasechka28@yandex.ru,255
+/data/upload/2267.jpg,411,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,256
+/data/upload/2255.jpg,410,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,257
+/data/upload/2254.jpg,409,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,258
+/data/upload/2253.jpg,408,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,259
+/data/upload/2252.jpg,407,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,260
+/data/upload/2251.jpg,406,trunk,stasechka28@yandex.ru,261
+/data/upload/2260.jpg,405,panel,stasechka28@yandex.ru,262
+/data/upload/2259.jpg,404,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,263
+/data/upload/2258.jpg,403,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,264
+/data/upload/2257.jpg,402,front,stasechka28@yandex.ru,265
+/data/upload/2256.jpg,401,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,266
+/data/upload/2246.jpg,400,front,stasechka28@yandex.ru,267
+/data/upload/2245.jpg,399,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,268
+/data/upload/2244.jpg,398,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,269
+/data/upload/2243.jpg,397,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,270
+/data/upload/2242.jpg,396,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,271
+/data/upload/2241.jpg,395,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,272
+/data/upload/2250.jpg,394,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,273
+/data/upload/2249.jpg,393,panel,stasechka28@yandex.ru,274
+/data/upload/2248.jpg,392,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,275
+/data/upload/2247.jpg,391,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,276
+/data/upload/2237.jpg,390,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,277
+/data/upload/2236.jpg,389,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,278
+/data/upload/2235.jpg,388,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,279
+/data/upload/2234.jpg,387,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,280
+/data/upload/2233.jpg,386,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,281
+/data/upload/2232.jpg,385,trunk,stasechka28@yandex.ru,282
+/data/upload/2231.jpg,384,panel,stasechka28@yandex.ru,283
+/data/upload/2240.jpg,383,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,284
+/data/upload/2239.jpg,382,front,stasechka28@yandex.ru,285
+/data/upload/2238.jpg,381,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,286
+/data/upload/2226.jpg,380,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,287
+/data/upload/2225.jpg,379,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,288
+/data/upload/2224.jpg,378,trunk,stasechka28@yandex.ru,289
+/data/upload/2223.jpg,377,panel,stasechka28@yandex.ru,290
+/data/upload/2222.jpg,376,interior,stasechka28@yandex.ru,291
+/data/upload/2221.jpg,375,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,292
+/data/upload/2230.jpg,374,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,293
+/data/upload/2229.jpg,373,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,294
+/data/upload/2228.jpg,372,panel,stasechka28@yandex.ru,295
+/data/upload/2227.jpg,371,panel,stasechka28@yandex.ru,296
+/data/upload/2215.jpg,370,front,stasechka28@yandex.ru,297
+/data/upload/2214.jpg,369,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,298
+/data/upload/2213.jpg,368,panel,stasechka28@yandex.ru,299
+/data/upload/2212.jpg,367,panel,stasechka28@yandex.ru,300
+/data/upload/2220.jpg,365,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,302
+/data/upload/2219.jpg,364,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,303
+/data/upload/2218.jpg,363,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,304
+/data/upload/2217.jpg,362,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,305
+/data/upload/2216.jpg,361,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,306
+/data/upload/2207.jpg,360,left,stasechka28@yandex.ru,307
+/data/upload/2206.jpg,359,b_left,stasechka28@yandex.ru,308
+/data/upload/2205.jpg,358,back,stasechka28@yandex.ru,309
+/data/upload/2204.jpg,357,b_right,stasechka28@yandex.ru,310
+/data/upload/2203.jpg,356,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,311
+/data/upload/2202.jpg,355,panel,stasechka28@yandex.ru,312
+/data/upload/2201.jpg,354,trunk,stasechka28@yandex.ru,313
+/data/upload/2210.jpg,353,f_right,stasechka28@yandex.ru,314
+/data/upload/2209.jpg,352,front,stasechka28@yandex.ru,315
+/data/upload/2208.jpg,351,f_left,stasechka28@yandex.ru,316
+/data/upload/2196.jpg,350,b_right,stasechka28@yandex.ru,317
+/data/upload/2195.jpg,349,back,stasechka28@yandex.ru,318
+/data/upload/2194.jpg,348,b_left,stasechka28@yandex.ru,319
+/data/upload/2193.jpg,347,left,stasechka28@yandex.ru,320
+/data/upload/2192.jpg,346,f_left,stasechka28@yandex.ru,321
+/data/upload/2191.jpg,345,front,stasechka28@yandex.ru,322
+/data/upload/2200.jpg,344,right,stasechka28@yandex.ru,323
+/data/upload/2199.jpg,343,interior,stasechka28@yandex.ru,324
+/data/upload/2198.jpg,342,panel,stasechka28@yandex.ru,325
+/data/upload/2197.jpg,341,f_right,stasechka28@yandex.ru,326
+/data/upload/2187.jpg,340,interior,stasechka28@yandex.ru,327
+/data/upload/2186.jpg,339,panel,stasechka28@yandex.ru,328
+/data/upload/2181.jpg,334,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,332
+/data/upload/2190.jpg,333,panel,stasechka28@yandex.ru,333
+/data/upload/2189.jpg,332,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,334
+/data/upload/2188.jpg,331,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,335
+/data/upload/2178.jpg,330,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,336
+/data/upload/2177.jpg,329,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,337
+/data/upload/2176.jpg,328,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,338
+/data/upload/2175.jpg,327,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,339
+/data/upload/2174.jpg,326,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,340
+/data/upload/2173.jpg,325,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,341
+/data/upload/2172.jpg,324,panel,stasechka28@yandex.ru,342
+/data/upload/2171.jpg,323,panel,stasechka28@yandex.ru,343
+/data/upload/2180.jpg,322,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,344
+/data/upload/2179.jpg,321,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,345
+/data/upload/2167.jpg,320,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,346
+/data/upload/2166.jpg,319,front,stasechka28@yandex.ru,347
+/data/upload/2165.jpg,318,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,348
+/data/upload/2164.jpg,317,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,349
+/data/upload/2163.jpg,316,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,350
+/data/upload/2162.jpg,315,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,351
+/data/upload/2161.jpg,314,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,352
+/data/upload/2170.jpg,313,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,353
+/data/upload/2169.jpg,312,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,354
+/data/upload/2168.jpg,311,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,355
+/data/upload/2157.jpg,310,panel,stasechka28@yandex.ru,356
+/data/upload/2156.jpg,309,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,357
+/data/upload/2155.jpg,308,interior,stasechka28@yandex.ru,358
+/data/upload/2154.jpg,307,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,359
+/data/upload/2153.jpg,306,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,360
+/data/upload/2152.jpg,305,front,stasechka28@yandex.ru,361
+/data/upload/2151.jpg,304,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,362
+/data/upload/2160.jpg,303,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,363
+/data/upload/2159.jpg,302,panel,stasechka28@yandex.ru,364
+/data/upload/2147.jpg,300,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,366
+/data/upload/2146.jpg,299,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,367
+/data/upload/2145.jpg,298,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,368
+/data/upload/2144.jpg,297,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,369
+/data/upload/2143.jpg,296,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,370
+/data/upload/2142.jpg,295,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,371
+/data/upload/2141.jpg,294,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,372
+/data/upload/2150.jpg,293,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,373
+/data/upload/2149.jpg,292,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,374
+/data/upload/2148.jpg,291,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,375
+/data/upload/2136.jpg,290,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,376
+/data/upload/2135.jpg,289,panel,stasechka28@yandex.ru,377
+/data/upload/2134.jpg,288,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,378
+/data/upload/2132.jpg,286,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,380
+/data/upload/2131.jpg,285,panel,stasechka28@yandex.ru,381
+/data/upload/2140.jpg,284,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,382
+/data/upload/2139.jpg,283,front,stasechka28@yandex.ru,383
+/data/upload/2138.jpg,282,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,384
+/data/upload/2137.jpg,281,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,385
+/data/upload/2127.jpg,280,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,386
+/data/upload/2126.jpg,279,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,387
+/data/upload/2125.jpg,278,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,388
+/data/upload/2124.jpg,277,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,389
+/data/upload/2123.jpg,276,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,390
+/data/upload/2122.jpg,275,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,391
+/data/upload/2121.jpg,274,front,stasechka28@yandex.ru,392
+/data/upload/2130.jpg,273,panel,stasechka28@yandex.ru,393
+/data/upload/2116.jpg,269,interior,stasechka28@yandex.ru,394
+/data/upload/2115.jpg,268,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,395
+/data/upload/2114.jpg,267,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,396
+/data/upload/2113.jpg,266,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,397
+/data/upload/2112.jpg,265,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,398
+/data/upload/2111.jpg,264,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,399
+/data/upload/2120.jpg,263,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,400
+/data/upload/2119.jpg,262,panel,stasechka28@yandex.ru,401
+/data/upload/2105.jpg,260,panel,stasechka28@yandex.ru,402
+/data/upload/2102.jpg,257,panel,stasechka28@yandex.ru,403
+/data/upload/2101.jpg,256,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,404
+/data/upload/2110.jpg,255,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,405
+/data/upload/2109.jpg,254,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,406
+/data/upload/2108.jpg,253,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,407
+/data/upload/2107.jpg,252,front,stasechka28@yandex.ru,408
+/data/upload/2106.jpg,251,panel,stasechka28@yandex.ru,409
+/data/upload/2092.jpg,250,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,410
+/data/upload/2091.jpg,249,front,stasechka28@yandex.ru,411
+/data/upload/2100.jpg,248,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,412
+/data/upload/2099.jpg,247,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,413
+/data/upload/2098.jpg,246,front,stasechka28@yandex.ru,414
+/data/upload/2097.jpg,245,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,415
+/data/upload/2096.jpg,244,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,416
+/data/upload/2095.jpg,243,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,417
+/data/upload/2094.jpg,242,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,418
+/data/upload/2093.jpg,241,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,419
+/data/upload/2088.jpg,240,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,420
+/data/upload/2087.jpg,239,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,421
+/data/upload/2086.jpg,238,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,422
+/data/upload/2085.jpg,237,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,423
+/data/upload/2084.jpg,236,panel,stasechka28@yandex.ru,424
+/data/upload/2081.jpg,233,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,425
+/data/upload/2090.jpg,232,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,426
+/data/upload/2089.jpg,231,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,427
+/data/upload/2079.jpg,230,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,428
+/data/upload/2078.jpg,229,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,429
+/data/upload/2077.jpg,228,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,430
+/data/upload/2076.jpg,227,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,431
+/data/upload/2075.jpg,226,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,432
+/data/upload/2074.jpg,225,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,433
+/data/upload/2073.jpg,224,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,434
+/data/upload/2072.jpg,223,front,stasechka28@yandex.ru,435
+/data/upload/2071.jpg,222,panel,stasechka28@yandex.ru,436
+/data/upload/2080.jpg,221,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,437
+/data/upload/2062.jpg,220,front,stasechka28@yandex.ru,438
+/data/upload/2061.jpg,219,panel,stasechka28@yandex.ru,439
+/data/upload/2070.jpg,218,panel,stasechka28@yandex.ru,440
+/data/upload/2069.jpg,217,interior,stasechka28@yandex.ru,441
+/data/upload/2068.jpg,216,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,442
+/data/upload/2067.jpg,215,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,443
+/data/upload/2066.jpg,214,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,444
+/data/upload/2065.jpg,213,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,445
+/data/upload/2064.jpg,212,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,446
+/data/upload/2063.jpg,211,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,447
+/data/upload/2055.jpg,210,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,448
+/data/upload/2054.jpg,209,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,449
+/data/upload/2053.jpg,208,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,450
+/data/upload/2052.jpg,207,"{""choices"": [""trunk"", ""labeled""]}",stasechka28@yandex.ru,451
+/data/upload/2060.jpg,205,interior,stasechka28@yandex.ru,452
+/data/upload/2059.jpg,204,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,453
+/data/upload/2058.jpg,203,front,stasechka28@yandex.ru,454
+/data/upload/2057.jpg,202,front,stasechka28@yandex.ru,455
+/data/upload/2056.jpg,201,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,456
+/data/upload/2048.jpg,200,front,stasechka28@yandex.ru,457
+/data/upload/2029.jpg,180,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,458
+/data/upload/2028.jpg,179,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,459
+/data/upload/2027.jpg,178,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,460
+/data/upload/2026.jpg,177,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,461
+/data/upload/2025.jpg,176,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,462
+/data/upload/2024.jpg,175,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,463
+/data/upload/2023.jpg,174,front,stasechka28@yandex.ru,464
+/data/upload/2022.jpg,173,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,465
+/data/upload/2021.jpg,172,panel,stasechka28@yandex.ru,466
+/data/upload/2013.jpg,170,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,467
+/data/upload/2012.jpg,169,panel,stasechka28@yandex.ru,468
+/data/upload/2011.jpg,168,front,stasechka28@yandex.ru,469
+/data/upload/2020.jpg,167,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,470
+/data/upload/2019.jpg,166,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,471
+/data/upload/2018.jpg,165,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,472
+/data/upload/2017.jpg,164,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,473
+/data/upload/2016.jpg,163,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,474
+/data/upload/2015.jpg,162,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,475
+/data/upload/2014.jpg,161,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,476
+/data/upload/2008.jpg,160,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,477
+/data/upload/2007.jpg,159,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,478
+/data/upload/2006.jpg,158,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,479
+/data/upload/2005.jpg,157,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,480
+/data/upload/2004.jpg,156,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,481
+/data/upload/2003.jpg,155,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,482
+/data/upload/2002.jpg,154,front,stasechka28@yandex.ru,483
+/data/upload/2001.jpg,153,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,484
+/data/upload/2010.jpg,152,interior,stasechka28@yandex.ru,485
+/data/upload/2009.jpg,151,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,486
+/data/upload/1998.jpg,150,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,487
+/data/upload/1997.jpg,149,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,488
+/data/upload/1996.jpg,148,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,489
+/data/upload/1995.jpg,147,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,490
+/data/upload/1994.jpg,146,front,stasechka28@yandex.ru,491
+/data/upload/1993.jpg,145,panel,stasechka28@yandex.ru,492
+/data/upload/1992.jpg,144,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,493
+/data/upload/1991.jpg,143,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,494
+/data/upload/2000.jpg,142,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,495
+/data/upload/1999.jpg,141,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,496
+/data/upload/1986.jpg,139,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,498
+/data/upload/1985.jpg,138,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,499
+/data/upload/1984.jpg,137,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,500
+/data/upload/1983.jpg,136,trunk,stasechka28@yandex.ru,501
+/data/upload/1982.jpg,135,front,stasechka28@yandex.ru,502
+/data/upload/1981.jpg,134,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,503
+/data/upload/1990.jpg,133,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,504
+/data/upload/1989.jpg,132,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,505
+/data/upload/1988.jpg,131,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,506
+/data/upload/1972.jpg,130,front,stasechka28@yandex.ru,507
+/data/upload/1971.jpg,129,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,508
+/data/upload/1980.jpg,128,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,509
+/data/upload/1979.jpg,127,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,510
+/data/upload/1978.jpg,126,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,511
+/data/upload/1977.jpg,125,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,512
+/data/upload/1976.jpg,124,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,513
+/data/upload/1975.jpg,123,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,514
+/data/upload/1974.jpg,122,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,515
+/data/upload/1973.jpg,121,panel,stasechka28@yandex.ru,516
+/data/upload/1963.jpg,120,front,stasechka28@yandex.ru,517
+/data/upload/1962.jpg,119,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,518
+/data/upload/1961.jpg,118,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,519
+/data/upload/1970.jpg,117,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,520
+/data/upload/1969.jpg,116,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,521
+/data/upload/1968.jpg,115,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,522
+/data/upload/1967.jpg,114,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,523
+/data/upload/1966.jpg,113,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,524
+/data/upload/1965.jpg,112,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,525
+/data/upload/1964.jpg,111,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,526
+/data/upload/1958.jpg,110,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,527
+/data/upload/1957.jpg,109,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,528
+/data/upload/1956.jpg,108,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,529
+/data/upload/1955.jpg,107,panel,stasechka28@yandex.ru,530
+/data/upload/1954.jpg,106,front,stasechka28@yandex.ru,531
+/data/upload/1953.jpg,105,interior,stasechka28@yandex.ru,532
+/data/upload/1952.jpg,104,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,533
+/data/upload/1951.jpg,103,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,534
+/data/upload/1950.jpg,102,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,535
+/data/upload/1949.jpg,101,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,536
+/data/upload/1948.jpg,100,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,537
+/data/upload/1947.jpg,99,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,538
+/data/upload/1946.jpg,98,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,539
+/data/upload/1945.jpg,97,front,stasechka28@yandex.ru,540
+/data/upload/1944.jpg,96,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,541
+/data/upload/1943.jpg,95,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,542
+/data/upload/1942.jpg,94,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,543
+/data/upload/1941.jpg,93,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,544
+/data/upload/1960.jpg,92,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,545
+/data/upload/1959.jpg,91,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,546
+/data/upload/1938.jpg,90,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,547
+/data/upload/1937.jpg,89,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,548
+/data/upload/1936.jpg,88,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,549
+/data/upload/1935.jpg,87,front,stasechka28@yandex.ru,550
+/data/upload/1934.jpg,86,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,551
+/data/upload/1933.jpg,85,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,552
+/data/upload/1932.jpg,84,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,553
+/data/upload/1931.jpg,83,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,554
+/data/upload/1930.jpg,82,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,555
+/data/upload/1929.jpg,81,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,556
+/data/upload/1928.jpg,80,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,557
+/data/upload/1927.jpg,79,"{""choices"": [""back"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,558
+/data/upload/1926.jpg,78,front,stasechka28@yandex.ru,559
+/data/upload/1925.jpg,77,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,560
+/data/upload/1924.jpg,76,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,561
+/data/upload/1923.jpg,75,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,562
+/data/upload/1922.jpg,74,"{""choices"": [""right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,563
+/data/upload/1921.jpg,73,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,564
+/data/upload/1940.jpg,72,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,565
+/data/upload/1939.jpg,71,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,566
+/data/upload/1916.jpg,70,front,stasechka28@yandex.ru,567
+/data/upload/1915.jpg,69,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,568
+/data/upload/1914.jpg,68,f_right,stasechka28@yandex.ru,569
+/data/upload/1913.jpg,67,front,stasechka28@yandex.ru,570
+/data/upload/1912.jpg,66,f_left,stasechka28@yandex.ru,571
+/data/upload/1911.jpg,65,left,stasechka28@yandex.ru,572
+/data/upload/1910.jpg,64,b_left,stasechka28@yandex.ru,573
+/data/upload/1909.jpg,63,back,stasechka28@yandex.ru,574
+/data/upload/1908.jpg,62,b_right,stasechka28@yandex.ru,575
+/data/upload/1907.jpg,61,right,stasechka28@yandex.ru,576
+/data/upload/1906.jpg,60,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,577
+/data/upload/1905.jpg,59,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,578
+/data/upload/1904.jpg,58,panel,stasechka28@yandex.ru,579
+/data/upload/1903.jpg,57,panel,stasechka28@yandex.ru,580
+/data/upload/1902.jpg,56,panel,stasechka28@yandex.ru,581
+/data/upload/1901.jpg,55,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,582
+/data/upload/1920.jpg,54,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,583
+/data/upload/1919.jpg,53,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,584
+/data/upload/1918.jpg,52,"{""choices"": [""back"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,585
+/data/upload/1917.jpg,51,panel,stasechka28@yandex.ru,586
+/data/upload/1899.jpg,50,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,587
+/data/upload/1898.jpg,49,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,588
+/data/upload/1897.jpg,48,front,stasechka28@yandex.ru,589
+/data/upload/1896.jpg,47,"{""choices"": [""left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,590
+/data/upload/1895.jpg,46,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,591
+/data/upload/1894.jpg,45,"{""choices"": [""f_right"", ""labeled""]}",stasechka28@yandex.ru,592
+/data/upload/1893.jpg,44,"{""choices"": [""b_right"", ""labeled""]}",stasechka28@yandex.ru,593
+/data/upload/1892.jpg,43,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",stasechka28@yandex.ru,594
+/data/upload/1891.jpg,42,interior,stasechka28@yandex.ru,595
+/data/upload/1900.jpg,41,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,596
+/data/upload/1876.jpg,40,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,597
+/data/upload/1875.jpg,39,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,598
+/data/upload/1874.jpg,38,panel,stasechka28@yandex.ru,599
+/data/upload/1873.jpg,37,panel,stasechka28@yandex.ru,600
+/data/upload/1871.jpg,35,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,601
+/data/upload/1890.jpg,34,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,602
+/data/upload/1889.jpg,33,panel,stasechka28@yandex.ru,603
+/data/upload/1888.jpg,32,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,604
+/data/upload/1887.jpg,31,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,605
+/data/upload/1886.jpg,30,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,606
+/data/upload/1885.jpg,29,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,607
+/data/upload/1882.jpg,26,"{""choices"": [""left"", ""labeled""]}",stasechka28@yandex.ru,608
+/data/upload/1881.jpg,25,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,609
+/data/upload/1880.jpg,24,front,stasechka28@yandex.ru,610
+/data/upload/1879.jpg,23,"{""choices"": [""f_left"", ""labeled""]}",stasechka28@yandex.ru,611
+/data/upload/1878.jpg,22,"{""choices"": [""right"", ""labeled""]}",stasechka28@yandex.ru,612
+/data/upload/1877.jpg,21,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,613
+/data/upload/1869.jpg,20,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,614
+/data/upload/1868.jpg,19,panel,stasechka28@yandex.ru,615
+/data/upload/1855.jpg,6,panel,stasechka28@yandex.ru,616
+/data/upload/1854.jpg,5,"{""choices"": [""interior"", ""dirty""]}",stasechka28@yandex.ru,617
+/data/upload/1853.jpg,4,"{""choices"": [""back"", ""labeled""]}",stasechka28@yandex.ru,618
+/data/upload/1852.jpg,3,"{""choices"": [""trunk"", ""dirty""]}",stasechka28@yandex.ru,619
+/data/upload/1851.jpg,2,"{""choices"": [""b_left"", ""labeled""]}",stasechka28@yandex.ru,620

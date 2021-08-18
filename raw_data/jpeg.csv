@@ -1,0 +1,241 @@
+image,id,choice,annotator,annotation_id
+/data/upload/4595.jpeg,1270,b_left,glebsin@gmail.com,812
+/data/upload/4606.jpeg,1260,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,802
+/data/upload/4703.jpeg,1165,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,719
+/data/upload/4744.jpeg,1122,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,681
+/data/upload/4768.jpeg,1097,"{""choices"": [""right"", ""dirty"", ""damaged""]}",glebsin@gmail.com,656
+/data/upload/4777.jpeg,1088,"{""choices"": [""right"", ""dirty"", ""damaged""]}",glebsin@gmail.com,647
+/data/upload/4577.jpeg,1290,panel,glebsin@gmail.com,832
+/data/upload/4576.jpeg,1289,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,831
+/data/upload/4580.jpeg,1288,panel,glebsin@gmail.com,830
+/data/upload/4579.jpeg,1287,panel,glebsin@gmail.com,829
+/data/upload/4578.jpeg,1286,panel,glebsin@gmail.com,828
+/data/upload/4581.jpeg,1285,interior,glebsin@gmail.com,827
+/data/upload/4586.jpeg,1284,interior,glebsin@gmail.com,826
+/data/upload/4585.jpeg,1283,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,825
+/data/upload/4584.jpeg,1282,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,824
+/data/upload/4583.jpeg,1281,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,823
+/data/upload/4582.jpeg,1280,panel,glebsin@gmail.com,822
+/data/upload/4588.jpeg,1279,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,821
+/data/upload/4587.jpeg,1278,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,820
+/data/upload/4591.jpeg,1277,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,819
+/data/upload/4590.jpeg,1276,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,818
+/data/upload/4589.jpeg,1275,front,glebsin@gmail.com,817
+/data/upload/4593.jpeg,1274,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,816
+/data/upload/4592.jpeg,1273,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,815
+/data/upload/4597.jpeg,1272,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,814
+/data/upload/4596.jpeg,1271,front,glebsin@gmail.com,813
+/data/upload/4594.jpeg,1269,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,811
+/data/upload/4599.jpeg,1268,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,810
+/data/upload/4598.jpeg,1267,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,809
+/data/upload/4602.jpeg,1266,panel,glebsin@gmail.com,808
+/data/upload/4601.jpeg,1265,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,807
+/data/upload/4600.jpeg,1264,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,806
+/data/upload/4604.jpeg,1263,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,805
+/data/upload/4603.jpeg,1262,back,glebsin@gmail.com,804
+/data/upload/4607.jpeg,1261,"{""choices"": [""left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,803
+/data/upload/4605.jpeg,1259,interior,glebsin@gmail.com,801
+/data/upload/4610.jpeg,1258,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,800
+/data/upload/4609.jpeg,1257,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,799
+/data/upload/4608.jpeg,1256,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,798
+/data/upload/4612.jpeg,1255,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,797
+/data/upload/4611.jpeg,1254,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,796
+/data/upload/4614.jpeg,1253,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,795
+/data/upload/4613.jpeg,1252,interior,glebsin@gmail.com,794
+/data/upload/4618.jpeg,1251,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,793
+/data/upload/4617.jpeg,1250,"{""choices"": [""left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,792
+/data/upload/4616.jpeg,1249,panel,glebsin@gmail.com,791
+/data/upload/4615.jpeg,1248,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,790
+/data/upload/4619.jpeg,1245,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,789
+/data/upload/4624.jpeg,1242,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,788
+/data/upload/4628.jpeg,1241,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,787
+/data/upload/4629.jpeg,1236,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,786
+/data/upload/4634.jpeg,1233,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,785
+/data/upload/4633.jpeg,1232,"{""choices"": [""right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,784
+/data/upload/4637.jpeg,1231,interior,glebsin@gmail.com,783
+/data/upload/4636.jpeg,1230,front,glebsin@gmail.com,782
+/data/upload/4635.jpeg,1229,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,781
+/data/upload/4639.jpeg,1228,panel,glebsin@gmail.com,780
+/data/upload/4638.jpeg,1227,panel,glebsin@gmail.com,779
+/data/upload/4642.jpeg,1226,panel,glebsin@gmail.com,778
+/data/upload/4644.jpeg,1223,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,777
+/data/upload/4643.jpeg,1222,front,glebsin@gmail.com,776
+/data/upload/4648.jpeg,1221,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,775
+/data/upload/4647.jpeg,1220,panel,glebsin@gmail.com,774
+/data/upload/4646.jpeg,1219,"{""choices"": [""left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,773
+/data/upload/4645.jpeg,1218,panel,glebsin@gmail.com,772
+/data/upload/4650.jpeg,1217,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,771
+/data/upload/4649.jpeg,1216,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,770
+/data/upload/4653.jpeg,1215,back,glebsin@gmail.com,769
+/data/upload/4652.jpeg,1214,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,768
+/data/upload/4651.jpeg,1213,front,glebsin@gmail.com,767
+/data/upload/4655.jpeg,1212,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,766
+/data/upload/4654.jpeg,1211,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,765
+/data/upload/4659.jpeg,1210,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,764
+/data/upload/4658.jpeg,1209,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,763
+/data/upload/4657.jpeg,1208,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,762
+/data/upload/4656.jpeg,1207,"{""choices"": [""right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,761
+/data/upload/4661.jpeg,1206,panel,glebsin@gmail.com,760
+/data/upload/4660.jpeg,1205,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,759
+/data/upload/4665.jpeg,1204,back,glebsin@gmail.com,758
+/data/upload/4664.jpeg,1203,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,757
+/data/upload/4663.jpeg,1202,front,glebsin@gmail.com,756
+/data/upload/4662.jpeg,1201,panel,glebsin@gmail.com,755
+/data/upload/4668.jpeg,1200,right,glebsin@gmail.com,754
+/data/upload/4667.jpeg,1199,f_left,glebsin@gmail.com,753
+/data/upload/4666.jpeg,1198,f_right,glebsin@gmail.com,752
+/data/upload/4672.jpeg,1197,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,751
+/data/upload/4671.jpeg,1196,"{""choices"": [""b_left"", ""dirty""]}",glebsin@gmail.com,750
+/data/upload/4670.jpeg,1195,b_right,glebsin@gmail.com,749
+/data/upload/4669.jpeg,1194,"{""choices"": [""left"", ""dirty""]}",glebsin@gmail.com,748
+/data/upload/4674.jpeg,1193,front,glebsin@gmail.com,747
+/data/upload/4673.jpeg,1192,panel,glebsin@gmail.com,746
+/data/upload/4677.jpeg,1191,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,745
+/data/upload/4676.jpeg,1190,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,744
+/data/upload/4675.jpeg,1189,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,743
+/data/upload/4680.jpeg,1188,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,742
+/data/upload/4679.jpeg,1187,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,741
+/data/upload/4678.jpeg,1186,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,740
+/data/upload/4684.jpeg,1185,panel,glebsin@gmail.com,739
+/data/upload/4683.jpeg,1184,interior,glebsin@gmail.com,738
+/data/upload/4682.jpeg,1183,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,737
+/data/upload/4681.jpeg,1182,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,736
+/data/upload/4686.jpeg,1181,front,glebsin@gmail.com,735
+/data/upload/4685.jpeg,1180,panel,glebsin@gmail.com,734
+/data/upload/4689.jpeg,1179,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,733
+/data/upload/4688.jpeg,1178,back,glebsin@gmail.com,732
+/data/upload/4687.jpeg,1177,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,731
+/data/upload/4690.jpeg,1176,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,730
+/data/upload/4693.jpeg,1175,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,729
+/data/upload/4692.jpeg,1174,"{""choices"": [""left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,728
+/data/upload/4691.jpeg,1173,"{""choices"": [""right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,727
+/data/upload/4695.jpeg,1172,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,726
+/data/upload/4694.jpeg,1171,"{""choices"": [""b_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,725
+/data/upload/4698.jpeg,1170,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,724
+/data/upload/4697.jpeg,1169,panel,glebsin@gmail.com,723
+/data/upload/4696.jpeg,1168,panel,glebsin@gmail.com,722
+/data/upload/4699.jpeg,1167,front,glebsin@gmail.com,721
+/data/upload/4704.jpeg,1166,"{""choices"": [""right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,720
+/data/upload/4702.jpeg,1164,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,718
+/data/upload/4701.jpeg,1163,back,glebsin@gmail.com,717
+/data/upload/4700.jpeg,1162,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,716
+/data/upload/4706.jpeg,1161,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,715
+/data/upload/4705.jpeg,1160,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,714
+/data/upload/4709.jpeg,1159,panel,glebsin@gmail.com,713
+/data/upload/4708.jpeg,1158,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,712
+/data/upload/4707.jpeg,1157,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,711
+/data/upload/4711.jpeg,1156,front,glebsin@gmail.com,710
+/data/upload/4710.jpeg,1155,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,709
+/data/upload/4714.jpeg,1154,"{""choices"": [""left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,708
+/data/upload/4713.jpeg,1153,"{""choices"": [""right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,707
+/data/upload/4712.jpeg,1152,"{""choices"": [""f_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,706
+/data/upload/4717.jpeg,1151,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,705
+/data/upload/4716.jpeg,1150,"{""choices"": [""b_right"", ""labeled"", ""damaged""]}",glebsin@gmail.com,704
+/data/upload/4715.jpeg,1149,"{""choices"": [""f_left"", ""labeled"", ""damaged""]}",glebsin@gmail.com,703
+/data/upload/4720.jpeg,1148,panel,glebsin@gmail.com,702
+/data/upload/4719.jpeg,1147,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,701
+/data/upload/4718.jpeg,1146,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,700
+/data/upload/4722.jpeg,1145,panel,glebsin@gmail.com,699
+/data/upload/4724.jpeg,1142,panel,glebsin@gmail.com,698
+/data/upload/4723.jpeg,1141,back,glebsin@gmail.com,697
+/data/upload/4727.jpeg,1140,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,696
+/data/upload/4726.jpeg,1139,panel,glebsin@gmail.com,695
+/data/upload/4731.jpeg,1138,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,694
+/data/upload/4730.jpeg,1137,front,glebsin@gmail.com,693
+/data/upload/4729.jpeg,1136,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,692
+/data/upload/4728.jpeg,1135,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,691
+/data/upload/4733.jpeg,1134,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,690
+/data/upload/4732.jpeg,1133,front,glebsin@gmail.com,689
+/data/upload/4737.jpeg,1132,panel,glebsin@gmail.com,688
+/data/upload/4734.jpeg,1129,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,687
+/data/upload/4739.jpeg,1128,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,686
+/data/upload/4743.jpeg,1126,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,685
+/data/upload/4742.jpeg,1125,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,684
+/data/upload/4741.jpeg,1124,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,683
+/data/upload/4740.jpeg,1123,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,682
+/data/upload/4748.jpeg,1121,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,680
+/data/upload/4747.jpeg,1120,front,glebsin@gmail.com,679
+/data/upload/4746.jpeg,1119,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,678
+/data/upload/4745.jpeg,1118,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,677
+/data/upload/4750.jpeg,1117,"{""choices"": [""b_left"", ""labeled""]}",glebsin@gmail.com,676
+/data/upload/4749.jpeg,1116,"{""choices"": [""back"", ""labeled""]}",glebsin@gmail.com,675
+/data/upload/4753.jpeg,1115,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,674
+/data/upload/4752.jpeg,1114,"{""choices"": [""f_left"", ""labeled""]}",glebsin@gmail.com,673
+/data/upload/4751.jpeg,1113,"{""choices"": [""b_right"", ""labeled""]}",glebsin@gmail.com,672
+/data/upload/4755.jpeg,1112,"{""choices"": [""right"", ""labeled""]}",glebsin@gmail.com,671
+/data/upload/4754.jpeg,1111,"{""choices"": [""f_right"", ""labeled""]}",glebsin@gmail.com,670
+/data/upload/4757.jpeg,1110,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,669
+/data/upload/4756.jpeg,1109,"{""choices"": [""left"", ""labeled""]}",glebsin@gmail.com,668
+/data/upload/4760.jpeg,1108,panel,glebsin@gmail.com,667
+/data/upload/4759.jpeg,1107,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,666
+/data/upload/4758.jpeg,1106,panel,glebsin@gmail.com,665
+/data/upload/4763.jpeg,1105,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,664
+/data/upload/4762.jpeg,1104,front,glebsin@gmail.com,663
+/data/upload/4761.jpeg,1103,panel,glebsin@gmail.com,662
+/data/upload/4766.jpeg,1102,"{""choices"": [""f_left"", ""dirty""]}",glebsin@gmail.com,661
+/data/upload/4765.jpeg,1101,"{""choices"": [""f_right"", ""dirty"", ""damaged""]}",glebsin@gmail.com,660
+/data/upload/4764.jpeg,1100,"{""choices"": [""back"", ""dirty""]}",glebsin@gmail.com,659
+/data/upload/4770.jpeg,1099,"{""choices"": [""b_left"", ""dirty""]}",glebsin@gmail.com,658
+/data/upload/4769.jpeg,1098,"{""choices"": [""b_right"", ""dirty"", ""damaged""]}",glebsin@gmail.com,657
+/data/upload/4767.jpeg,1096,"{""choices"": [""left"", ""dirty""]}",glebsin@gmail.com,655
+/data/upload/4771.jpeg,1095,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,654
+/data/upload/4776.jpeg,1094,"{""choices"": [""f_right"", ""damaged""]}",glebsin@gmail.com,653
+/data/upload/4775.jpeg,1093,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,652
+/data/upload/4774.jpeg,1092,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,651
+/data/upload/4773.jpeg,1091,front,glebsin@gmail.com,650
+/data/upload/4772.jpeg,1090,panel,glebsin@gmail.com,649
+/data/upload/4778.jpeg,1089,"{""choices"": [""b_right"", ""dirty"", ""damaged""]}",glebsin@gmail.com,648
+/data/upload/4782.jpeg,1087,"{""choices"": [""f_left"", ""dirty""]}",glebsin@gmail.com,646
+/data/upload/4781.jpeg,1086,"{""choices"": [""left"", ""dirty""]}",glebsin@gmail.com,645
+/data/upload/4780.jpeg,1085,"{""choices"": [""b_left"", ""dirty""]}",glebsin@gmail.com,644
+/data/upload/4779.jpeg,1084,"{""choices"": [""back"", ""dirty""]}",glebsin@gmail.com,643
+/data/upload/4787.jpeg,1083,"{""choices"": [""f_right"", ""damaged""]}",glebsin@gmail.com,642
+/data/upload/4786.jpeg,1082,back,glebsin@gmail.com,641
+/data/upload/4785.jpeg,1081,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,640
+/data/upload/4784.jpeg,1080,front,glebsin@gmail.com,639
+/data/upload/4783.jpeg,1079,panel,glebsin@gmail.com,638
+/data/upload/4789.jpeg,1078,left,glebsin@gmail.com,637
+/data/upload/4788.jpeg,1077,f_left,glebsin@gmail.com,636
+/data/upload/4792.jpeg,1076,b_left,glebsin@gmail.com,635
+/data/upload/4791.jpeg,1075,"{""choices"": [""b_right"", ""damaged""]}",glebsin@gmail.com,634
+/data/upload/4790.jpeg,1074,"{""choices"": [""right"", ""damaged""]}",glebsin@gmail.com,633
+/data/upload/4795.jpeg,1073,"{""choices"": [""front"", ""dirty""]}",glebsin@gmail.com,632
+/data/upload/4794.jpeg,1072,panel,glebsin@gmail.com,631
+/data/upload/4793.jpeg,1071,interior,glebsin@gmail.com,630
+/data/upload/4797.jpeg,1070,back,glebsin@gmail.com,629
+/data/upload/4796.jpeg,1069,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,628
+/data/upload/4802.jpeg,1068,"{""choices"": [""b_right"", ""damaged""]}",glebsin@gmail.com,627
+/data/upload/4801.jpeg,1067,"{""choices"": [""right"", ""damaged""]}",glebsin@gmail.com,626
+/data/upload/4800.jpeg,1066,left,glebsin@gmail.com,625
+/data/upload/4799.jpeg,1065,f_left,glebsin@gmail.com,624
+/data/upload/4798.jpeg,1064,"{""choices"": [""f_right"", ""damaged""]}",glebsin@gmail.com,623
+/data/upload/4827.jpeg,1063,panel,glebsin@gmail.com,622
+/data/upload/4826.jpeg,1062,interior,glebsin@gmail.com,621
+/data/upload/4825.jpeg,1061,b_left,glebsin@gmail.com,620
+/data/upload/4824.jpeg,1060,"{""choices"": [""b_right"", ""damaged""]}",glebsin@gmail.com,619
+/data/upload/4823.jpeg,1059,"{""choices"": [""right"", ""damaged""]}",glebsin@gmail.com,618
+/data/upload/4822.jpeg,1058,left,glebsin@gmail.com,617
+/data/upload/4818.jpeg,1057,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,616
+/data/upload/4821.jpeg,1056,f_left,glebsin@gmail.com,615
+/data/upload/4820.jpeg,1055,"{""choices"": [""f_right"", ""damaged""]}",glebsin@gmail.com,614
+/data/upload/4819.jpeg,1054,back,glebsin@gmail.com,613
+/data/upload/4813.jpeg,1053,"{""choices"": [""b_right"", ""damaged""]}",glebsin@gmail.com,612
+/data/upload/4812.jpeg,1052,"{""choices"": [""right"", ""damaged""]}",glebsin@gmail.com,611
+/data/upload/4817.jpeg,1051,front,glebsin@gmail.com,610
+/data/upload/4816.jpeg,1050,panel,glebsin@gmail.com,609
+/data/upload/4815.jpeg,1049,interior,glebsin@gmail.com,608
+/data/upload/4814.jpeg,1048,b_left,glebsin@gmail.com,607
+/data/upload/4808.jpeg,1047,back,glebsin@gmail.com,606
+/data/upload/4807.jpeg,1046,"{""choices"": [""trunk"", ""dirty""]}",glebsin@gmail.com,605
+/data/upload/4811.jpeg,1045,left,glebsin@gmail.com,604
+/data/upload/4810.jpeg,1044,f_left,glebsin@gmail.com,603
+/data/upload/4809.jpeg,1043,f_right,glebsin@gmail.com,602
+/data/upload/4803.jpeg,1042,b_left,glebsin@gmail.com,601
+/data/upload/4806.jpeg,1041,front,glebsin@gmail.com,600
+/data/upload/4805.jpeg,1040,panel,glebsin@gmail.com,599
+/data/upload/4804.jpeg,1039,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,598
+/data/upload/4577.jpeg,1038,panel,glebsin@gmail.com,597
+/data/upload/4576.jpeg,1037,"{""choices"": [""interior"", ""dirty""]}",glebsin@gmail.com,596
+/data/upload/4580.jpeg,1036,panel,glebsin@gmail.com,595
+/data/upload/4579.jpeg,1035,panel,glebsin@gmail.com,594
+/data/upload/4578.jpeg,1034,panel,glebsin@gmail.com,593

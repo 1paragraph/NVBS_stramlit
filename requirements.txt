@@ -1,0 +1,4 @@
+timm==0.4.12
+torchaudio==0.9.0
+torchvision==0.10.0
+tqdm=4.62.0
