@@ -73,6 +73,10 @@ if uploaded_file is not None:
 def random_show():
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
     opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
+    w, h = round(opencv_image.shape[0]*0.4), round(opencv_image.shape[1]*0.4)
+
+    to_show = cv2.resize(opencv_image, (w, h))
+
     st.image(opencv_image, channels="BGR")
 
     result = m.predict(opencv_image)
