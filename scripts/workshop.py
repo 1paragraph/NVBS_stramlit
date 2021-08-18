@@ -60,8 +60,7 @@ if uploaded_file is not None:
 st.button('Мне лень грузить картинку')
 
 if st.button('Мне лень грузить картинку'):
-    x += 1
-    st.text(x)
+    st.text('kek')
 
 
 
