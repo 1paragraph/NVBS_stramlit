@@ -59,7 +59,7 @@ st.subheader('Инструмент для определения состоян�
 #     else:
 #         None
 
-if st.button('Мне повезёт!'):
+def random_show():
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
     opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
     st.image(opencv_image, channels="BGR")
@@ -78,6 +78,10 @@ if st.button('Мне повезёт!'):
             None
     else:
         None
+
+
+if st.button('Мне повезёт!'):
+    random_show()
 
 caching.clear_cache()
 
