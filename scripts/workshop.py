@@ -12,11 +12,11 @@ m = nvbs_models.NvbsCarModel(
                                         './model_weights/bbox_model_resnet18d.pt')
     )
 
-st.header('НВБС')
+st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
 
 
-st.title('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
+st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
 uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
 if uploaded_file is not None:
@@ -27,7 +27,13 @@ if uploaded_file is not None:
     # Now do something with the image! For example, let's display it:
     st.image(opencv_image, channels="BGR")
 
-    st.write(m.predict(opencv_image))
+    result = m.predict(opencv_image)
+
+    if result['classes'] in not None:
+        st.write(result['classes'])
+    else:
+        None
+
 
 
 
