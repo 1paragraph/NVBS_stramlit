@@ -31,7 +31,7 @@ if uploaded_file is not None:
 
     if result['classes'] is not None:
         classes = [x for x in result['classes']] 
-        st.text(result['classes'].values())
+        st.text(list(result['classes']))
     else:
         None
 
