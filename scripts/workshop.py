@@ -51,9 +51,11 @@ if uploaded_file is not None:
         st.text('Атрибуты:')
         for x in classes.tolist(): 
             st.text(x)
-    elif result['mileage'] is not None:
-        st.text('Пробег:')
-        st.write(result['mileage'])
+        if result['mileage'] is not None:
+            st.text('Пробег:')
+            st.write(result['mileage'])
+        else:
+            None
     else:
         None
 
