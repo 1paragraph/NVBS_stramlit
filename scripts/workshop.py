@@ -43,8 +43,11 @@ uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 def on_download():
     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
     opencv_image = cv2.imdecode(file_bytes, 1)
+    
+    w, h = round(opencv_image.shape[0]*0.4), round(opencv_image.shape[1]*0.4)
 
-    # Now do something with the image! For example, let's display it:
+    to_show = cv2.resize(opencv_image, (w, h))
+
     st.image(opencv_image, channels="BGR")
 
     result = m.predict(opencv_image)
