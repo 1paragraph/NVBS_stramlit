@@ -21,7 +21,6 @@ if uploaded_file is not None:
 
     # Now do something with the image! For example, let's display it:
     st.image(opencv_image, channels="BGR")
-    st.write(opencv_image)
 
     st.write(m.predict(opencv_image))
 
