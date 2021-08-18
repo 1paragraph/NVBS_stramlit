@@ -29,7 +29,7 @@ if uploaded_file is not None:
 
     result = m.predict(opencv_image)
 
-    if result['classes'] in not None:
+    if result['classes'] is not None:
         st.write(result['classes'])
     else:
         None
