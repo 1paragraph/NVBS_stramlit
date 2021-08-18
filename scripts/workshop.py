@@ -6,6 +6,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from streamlit import caching
+import random
 
 m = nvbs_models.NvbsCarModel(
     classifier=nvbs_models.CarsClassifier('./model_weights/b4.pt'),
