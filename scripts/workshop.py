@@ -10,7 +10,7 @@ m = nvbs_models.NvbsCarModel(
     )
 
 cp = CarsParser(m)
-path = '../test_data'
+path = './test_data'
 cp.parse(path)
 result = cp.get_report()
 result.to_csv('result.csv', index=False)
