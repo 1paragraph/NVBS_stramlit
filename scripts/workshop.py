@@ -57,8 +57,6 @@ if uploaded_file is not None:
     else:
         None
 
-st.button('Мне лень грузить картинку')
-
 if st.button('Мне лень грузить картинку'):
     st.text('kek')
 
