@@ -12,7 +12,7 @@ m = nvbs_models.NvbsCarModel(
                                         './model_weights/bbox_model_resnet18d.pt')
     )
 
-uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg'])
+uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
 if uploaded_file is not None:
     # Convert the file to an opencv image.
