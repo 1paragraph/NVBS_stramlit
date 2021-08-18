@@ -32,33 +32,33 @@ st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
 
 
-st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
-uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
+# st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
+# uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
-if uploaded_file is not None:
-    # Convert the file to an opencv image.
-    file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
-    opencv_image = cv2.imdecode(file_bytes, 1)
+# if uploaded_file is not None:
+#     # Convert the file to an opencv image.
+#     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
+#     opencv_image = cv2.imdecode(file_bytes, 1)
 
-    # Now do something with the image! For example, let's display it:
-    st.image(opencv_image, channels="BGR")
+#     # Now do something with the image! For example, let's display it:
+#     st.image(opencv_image, channels="BGR")
 
-    result = m.predict(opencv_image)
+#     result = m.predict(opencv_image)
 
-    if result['classes'] is not None:
-        classes = pd.Series(list(result['classes'])).map(empty_messages)
-        st.text('Атрибуты:')
-        for x in classes.tolist(): 
-            st.text(x)
-        if result['mileage'] is not None:
-            st.text('Пробег:')
-            st.write(result['mileage'])
-        else:
-            None
-    else:
-        None
+#     if result['classes'] is not None:
+#         classes = pd.Series(list(result['classes'])).map(empty_messages)
+#         st.text('Атрибуты:')
+#         for x in classes.tolist(): 
+#             st.text(x)
+#         if result['mileage'] is not None:
+#             st.text('Пробег:')
+#             st.write(result['mileage'])
+#         else:
+#             None
+#     else:
+#         None
 
-if st.button('Мне лень грузить картинку'):
+if st.button('Мне повезёт!'):
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
     opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
     st.image(opencv_image, channels="BGR")
