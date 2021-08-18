@@ -5,6 +5,7 @@ import os
 import streamlit as st
 import numpy as np
 import pandas as pd
+from streamlit import caching
 
 m = nvbs_models.NvbsCarModel(
     classifier=nvbs_models.CarsClassifier('./model_weights/b4.pt'),
@@ -77,7 +78,7 @@ if st.button('Мне лень грузить картинку'):
     else:
         None
 
-
+caching.clear_cache()
 
 
 
