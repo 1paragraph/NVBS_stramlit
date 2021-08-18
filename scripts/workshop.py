@@ -53,6 +53,7 @@ def on_download():
         st.text('Атрибуты:')
         for x in classes.tolist(): 
             st.text(x)
+
         if result['mileage'] is not None:
             st.text('Пробег:')
             st.write(result['mileage'])
@@ -80,10 +81,10 @@ def random_show():
         st.text('Атрибуты:')
         for x in classes.tolist(): 
             st.text(x)
-        if result['mileage'] is not None:
+        try:
             st.text('Пробег:')
             st.write(result['mileage'])
-        else:
+        except:
             None
     else:
         None
