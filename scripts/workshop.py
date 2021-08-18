@@ -12,6 +12,11 @@ m = nvbs_models.NvbsCarModel(
                                         './model_weights/bbox_model_resnet18d.pt')
     )
 
+st.header('НВБС')
+st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
+
+
+st.title('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg)
 uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
 if uploaded_file is not None:
@@ -23,6 +28,8 @@ if uploaded_file is not None:
     st.image(opencv_image, channels="BGR")
 
     st.write(m.predict(opencv_image))
+
+
 
 # cp = CarsParser(m)
 # path = './test_data'
