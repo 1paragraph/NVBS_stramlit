@@ -30,7 +30,8 @@ if uploaded_file is not None:
     result = m.predict(opencv_image)
 
     if result['classes'] is not None:
-        st.write(result['classes'])
+        classes = [x for x in result['classes']] 
+        st.write(classes)
     else:
         None
 
