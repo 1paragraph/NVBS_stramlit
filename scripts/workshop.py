@@ -16,7 +16,7 @@ st.header('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
 
 
-st.title('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg)
+st.title('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
 uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
 if uploaded_file is not None:
