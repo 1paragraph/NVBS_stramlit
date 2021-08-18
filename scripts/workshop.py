@@ -24,7 +24,8 @@ empty_messages = {
     'b_left': 'задней левой стороны',
     'dirt': 'грязный',
     'dirty': 'грязный',
-    'panel': 'панель'}
+    'panel': 'панель',
+    'interior': 'салон'}
 
 st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
@@ -45,8 +46,11 @@ if uploaded_file is not None:
 
     if result['classes'] is not None:
         classes = pd.Series(list(result['classes'])).map(empty_messages)
-        st.write(result['classes'])
-        st.write(classes)
+        st.text('Атрибуты:')
+        st.write(classes.tolist())
+    elif result['mileage'] is not None:
+        st.text('Пробег:')
+        st.write(result['mileage'])
     else:
         None
 
