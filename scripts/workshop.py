@@ -4,6 +4,7 @@ from cars_parser import CarsParser
 import os
 import streamlit as st
 import numpy as np
+import pandas as pd
 
 m = nvbs_models.NvbsCarModel(
     classifier=nvbs_models.CarsClassifier('./model_weights/b4.pt'),
@@ -11,6 +12,19 @@ m = nvbs_models.NvbsCarModel(
     ocr=nvbs_models.PanelDigitsDetector('./model_weights/class_resnet18d.pt',
                                         './model_weights/bbox_model_resnet18d.pt')
     )
+
+empty_messages = {
+    'front': 'передней стороны',
+    'f_right': 'правой передней стороны',
+    'f_left': 'левой передней стороны',
+    'left': 'левой стороны',
+    'right': 'правой стороны',
+    'back': 'задней стороны',
+    'b_right': 'задней правой стороны',
+    'b_left': 'задней левой стороны',
+    'dirt': 'грязный',
+    'dirty': 'грязный',
+    'panel': 'панель'}
 
 st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
@@ -30,8 +44,10 @@ if uploaded_file is not None:
     result = m.predict(opencv_image)
 
     if result['classes'] is not None:
-        classes = [x for x in result['classes']] 
-        st.text(list(result['classes']))
+        classes = pd.Series(list(result['classes'])).map(empty_messages)
+
+
+        st.text(classes)
     else:
         None
 
