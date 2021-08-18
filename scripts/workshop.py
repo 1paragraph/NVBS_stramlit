@@ -58,7 +58,7 @@ if uploaded_file is not None:
         None
 
 if st.button('Мне лень грузить картинку'):
-    st.text(os.listdir(os.listdir(os.getcwd()+'/lazy_ass')))
+    st.text(os.listdir(os.getcwd()+'/lazy_ass'))
 
 
 
