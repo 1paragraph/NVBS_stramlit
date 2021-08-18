@@ -25,7 +25,6 @@ class CarsParser():
 
     def _read_storage(self):
         try:
-            print(self.storage_path)
             self.storage = pd.read_csv(self.storage_path)
         except FileNotFoundError:
             print('Storage file not found, create a new one.')
