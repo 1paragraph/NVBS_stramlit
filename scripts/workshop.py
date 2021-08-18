@@ -2,6 +2,7 @@ import nvbs_models
 import cv2
 from cars_parser import CarsParser
 import os
+import streamlit as st
 
 m = nvbs_models.NvbsCarModel(
     classifier=nvbs_models.CarsClassifier('./model_weights/b4.pt'),
@@ -10,7 +11,7 @@ m = nvbs_models.NvbsCarModel(
                                         './model_weights/bbox_model_resnet18d.pt')
     )
 
-print(os.getcwd())
+st.write(os.getcwd())
 
 # cp = CarsParser(m)
 # path = './test_data'
