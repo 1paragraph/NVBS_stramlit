@@ -23,7 +23,7 @@ if uploaded_file is not None:
     st.image(opencv_image, channels="BGR")
     st.write(opencv_image)
 
-st.write(m(opencv_image))
+    st.write(m(opencv_image))
 
 # cp = CarsParser(m)
 # path = './test_data'
