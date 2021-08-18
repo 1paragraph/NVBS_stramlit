@@ -58,7 +58,24 @@ if uploaded_file is not None:
         None
 
 if st.button('Мне лень грузить картинку'):
-    st.text(os.listdir(os.getcwd()+'/lazy_ass'))
+    random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
+    opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
+    st.image(opencv_image, channels="BGR")
+
+    result = m.predict(opencv_image)
+
+    if result['classes'] is not None:
+        classes = pd.Series(list(result['classes'])).map(empty_messages)
+        st.text('Атрибуты:')
+        for x in classes.tolist(): 
+            st.text(x)
+        if result['mileage'] is not None:
+            st.text('Пробег:')
+            st.write(result['mileage'])
+        else:
+            None
+    else:
+        None
 
 
 
