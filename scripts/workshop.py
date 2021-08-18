@@ -16,14 +16,14 @@ m = nvbs_models.NvbsCarModel(
     )
 
 empty_messages = {
-    'front': 'передней стороны',
-    'f_right': 'правой передней стороны',
-    'f_left': 'левой передней стороны',
-    'left': 'левой стороны',
-    'right': 'правой стороны',
-    'back': 'задней стороны',
-    'b_right': 'задней правой стороны',
-    'b_left': 'задней левой стороны',
+    'front': 'передняя сторона',
+    'f_right': 'правая передняя сторона',
+    'f_left': 'левая передняя сторона',
+    'left': 'левая сторона',
+    'right': 'правая сторона',
+    'back': 'задняя сторона',
+    'b_right': 'задняя правая сторона',
+    'b_left': 'задняя левая сторона',
     'dirt': 'грязный',
     'dirty': 'грязный',
     'panel': 'панель',
@@ -33,35 +33,14 @@ st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
 
 
-# st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
-# uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
+st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
+uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
-# if uploaded_file is not None:
-#     # Convert the file to an opencv image.
-#     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
-#     opencv_image = cv2.imdecode(file_bytes, 1)
+def on_download():
+    file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
+    opencv_image = cv2.imdecode(file_bytes, 1)
 
-#     # Now do something with the image! For example, let's display it:
-#     st.image(opencv_image, channels="BGR")
-
-#     result = m.predict(opencv_image)
-
-#     if result['classes'] is not None:
-#         classes = pd.Series(list(result['classes'])).map(empty_messages)
-#         st.text('Атрибуты:')
-#         for x in classes.tolist(): 
-#             st.text(x)
-#         if result['mileage'] is not None:
-#             st.text('Пробег:')
-#             st.write(result['mileage'])
-#         else:
-#             None
-#     else:
-#         None
-
-def random_show():
-    random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
-    opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
+    # Now do something with the image! For example, let's display it:
     st.image(opencv_image, channels="BGR")
 
     result = m.predict(opencv_image)
@@ -79,9 +58,38 @@ def random_show():
     else:
         None
 
+if uploaded_file is not None:
+    # Convert the file to an opencv image.
+    on_download()
+
+
+def random_show():
+    random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
+    opencv_image = cv2.imread(os.getcwd()+'/lazy_ass/' + random_num)
+    st.image(opencv_image, channels="BGR")
+
+    result = m.predict(opencv_image)
+
+    st.text(result)
+
+    if result['classes'] is not None:
+        classes = pd.Series(list(result['classes'])).map(empty_messages)
+        st.text('Атрибуты:')
+        for x in classes.tolist(): 
+            st.text(x)
+        if result['mileage'] is not None:
+            st.text('Пробег:')
+            st.write(result['mileage'])
+        else:
+            None
+    else:
+        None
+
 
 if st.button('Мне повезёт!'):
     random_show()
+
+
 
 caching.clear_cache()
 
