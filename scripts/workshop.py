@@ -45,6 +45,8 @@ def on_download():
 
     result = m.predict(opencv_image)
 
+    st.text(result)
+
     if result['classes'] is not None:
         classes = pd.Series(list(result['classes'])).map(empty_messages)
         st.text('Атрибуты:')
