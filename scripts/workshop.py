@@ -37,8 +37,8 @@ st.title('НВБС')
 st.subheader('Инструмент для определения состояний автомобилей и показаний одометра')
 
 
-st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
-uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
+# st.text('Загрузите картинку с автомобилем сюда в формате .png|.jpeg|.jpg')
+# uploaded_file = st.file_uploader("Upload Files",type=['png','jpeg', 'jpg'])
 
 def on_download():
     file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
@@ -67,9 +67,9 @@ def on_download():
         None
     caching.clear_cache()
 
-if uploaded_file is not None:
-    # Convert the file to an opencv image.
-    on_download()
+# if uploaded_file is not None:
+#     # Convert the file to an opencv image.
+#     on_download()
 
 def random_show():
     random_num = random.choice(os.listdir(os.getcwd()+'/lazy_ass'))
@@ -107,12 +107,3 @@ if st.button('Мне повезёт!'):
 
 
 caching.clear_cache()
-
-
-
-# cp = CarsParser(m)
-# path = './test_data'
-# cp.parse(path)
-# result = cp.get_report()
-# result.to_csv('result.csv', index=False)
-# print(result)
